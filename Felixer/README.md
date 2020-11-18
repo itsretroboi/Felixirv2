@@ -1,6 +1,17 @@
 # Felixer
 
-A new Flutter project.
+Felixir - a better way to life
+© Copyright Ownership By Saswat Mahapatra
+Team Members :
+Saksham Misra
+Pulkit Thakran
+
+
+Use of ©Felixir without owner's notice may lead to penal charges.
+Felixir is the sole property of Saswat Mahapatra & his associates.
+
+Bennett University Project - 2020
+
 
 ## Getting Started
 
