@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "102601843965",
+    "firebase_url": "https://felixir.firebaseio.com",
+    "project_id": "felixir",
+    "storage_bucket": "felixir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102601843965:android:9bef321b500394ed318a94",
+        "android_client_info": {
+          "package_name": "com.example.Felixer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102601843965-9riipu5g7k6sjkjoi2vs3b34crmec6uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzTx87nGYZNnoLiJMJaVAuQbITc0y0ylw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102601843965-9riipu5g7k6sjkjoi2vs3b34crmec6uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
